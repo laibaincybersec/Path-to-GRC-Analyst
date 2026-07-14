@@ -61,7 +61,3 @@ I'm building this repo to:
 - [ ] CRISC (Certified in Risk and Information Systems Control)
 - [ ] ISO 27001 Lead Implementer / Auditor
 - [ ] CGRC (Certified in Governance, Risk and Compliance)
-
----
-
-## 📁 Repo Structure
