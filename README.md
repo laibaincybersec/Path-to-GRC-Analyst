@@ -57,7 +57,7 @@ I'm building this repo to:
 
 ### 7. Certifications
 - [ ] CompTIA Security+ (foundational)
+- [ ] CGRC (Certified in Governance, Risk and Compliance)
+- [ ]  ISO 27001 Lead Implementer / Auditor
 - [ ] CISA (Certified Information Systems Auditor)
 - [ ] CRISC (Certified in Risk and Information Systems Control)
-- [ ] ISO 27001 Lead Implementer / Auditor
-- [ ] CGRC (Certified in Governance, Risk and Compliance)
